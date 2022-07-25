@@ -7,6 +7,6 @@ This proejct will help demonstrate
   - Creating a webpage from scratch using HTML
   - Using various elements such as:
     - anchor <a></a>
-	- <img>
+	- \<img\>
 	- All other boiler plate elements.
   
